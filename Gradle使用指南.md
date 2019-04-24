@@ -1,11 +1,11 @@
 # Gradle  
 [Gradle官网](https://gradle.org/)  
 ### 一.Gradle安装  
-  * 下载文件,解压后配置环境变量GRADLE_HOME(文件解压硬盘位置)
+  * 下载文件,解压后配置环境变量 `GRADLE_HOME` (文件解压硬盘位置)
   * 添加进Path环境变量
   * 终端输入以下命令,检查是否安装成功
   > gradle -v
-  * 配置GRADLE_USER_HOME环境变量指定Gradle缓存jar包地址，不配置使用默认地址
+  * 配置 `GRADLE_USER_HOME` 环境变量指定Gradle缓存jar包地址，不配置使用默认地址
 ---
 ### 二.Gradle使用  
   1. 创建build.gradle文件  
