@@ -3,6 +3,9 @@ mysql 主从配置
 
 `1. 注意数据版本,从库版本尽量保持与主库一致!`  
 
+*参考信息:*  
+[阿里云RDS同步到本地自建mysql数据库从库](https://www.cnblogs.com/weifeng1463/p/9678303.html)
+
 ### 1.从库配置  
 
 ```properties
